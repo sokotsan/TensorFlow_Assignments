@@ -1,2 +1,3 @@
 # TensorFlow_Assignments
-Homework
+Homework # 2 
+For the Berkley Extension Tensor Flow Class
